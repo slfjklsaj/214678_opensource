@@ -1,3 +1,6 @@
 
+<<<<<<< HEAD
 hong
 fuck
+=======
+>>>>>>> parent of 22f2805 (a file and name)
